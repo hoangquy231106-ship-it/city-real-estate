@@ -9,7 +9,7 @@ document
     try{
 
         await fetch(
-            "https://script.google.com/macros/s/AKfycbzuk0a5rTah1lffhy9dKfxHk9fqd44RLGhBk6qtJK0PdTJl7m2K4b6lci10eawSLbAhTA/exec",
+            "https://script.google.com/macros/library/d/1y2ONHK1IaRL_o3O-3YOx4IcYUZR3wIrBNiq6S9JqcS3gq5tN3wEBJbVK/1",
             {
                 method:"POST",
                 body:formData
